@@ -12,6 +12,7 @@ Using randomized Kruskal's algorithm to generate MAZES!. Compile however you wis
 
 ## anyflip_to_pdf.py :  
 THEY'VE PATCHED IT, THIS NO LONGER WORKS.
+
 Given an Anyflip book, download it in pdf format.  
 Instructions:  
 Create a new folder. Copy anyflip_to_pdf.py to the folder.  
