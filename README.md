@@ -3,9 +3,10 @@ Mostly fun programs, either implementing interesting algorithms or performing si
 
 ## stars-without-number-sector-generator.scm
 Stars Without Number Sector Generator:
-A simple automatic generator of a SWN sector written in Chez Scheme,
-using the core rules (https://www.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version).
-Currently the generator simply prints a sector map, and a description of the planetary systems.
+
+A simple automatic generator of a SWN sector written in Chez Scheme,  
+using the core rules (https://www.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version).  
+Currently the generator simply prints a sector map, and a description of the planetary systems.  
 
 ## Maze.c / Maze.exe :   
 Using randomized Kruskal's algorithm to generate MAZES!. Compile however you wish, then run through cmd/terminal, but make sure to zoom out using ctrl+mouse wheel before you call or it'll be all ugly! 
