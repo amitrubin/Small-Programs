@@ -1,5 +1,5 @@
 # Small-Programs
-Mostly fun programs, either implementing interesting algorithms or performing simple tasks  
+Mostly fun programs, either implementing interesting algorithms or performing useful tasks  
 
 ## draw_tree.ml :
 Returns a string representation of a string tree.  
