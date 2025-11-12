@@ -1,7 +1,7 @@
 # Small-Programs
 Mostly fun programs, either implementing interesting algorithms or performing useful tasks  
 
-## draw_tree.ml :
+## draw_tree.ml : 
 Returns a string representation of a string tree.  
 Useful for visualizing tree structures, such as ASTs, which was my use case while teaching compilation.
 
