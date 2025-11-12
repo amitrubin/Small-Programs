@@ -1,6 +1,10 @@
 # Small-Programs
 Mostly fun programs, either implementing interesting algorithms or performing simple tasks  
 
+## draw_tree.ml :
+Returns a string representation of a string tree. 
+Useful for visualizing tree structures, such as ASTs, which was my use case while teaching compilation.
+
 ## stars-without-number-sector-generator.scm
 Stars Without Number Sector Generator:
 
